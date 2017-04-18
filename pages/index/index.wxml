@@ -1,0 +1,3 @@
+<!--index.wxml-->
+<import src="../logs/logs.wxml"/>
+<template is="item" data="{{...item}}"/>

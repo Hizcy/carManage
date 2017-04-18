@@ -1,0 +1,6 @@
+
+<template name="item">
+  <text>{{index}}</text>
+  <text>{{msg}}</text>
+  <text>{{time}}</text>
+</template>
